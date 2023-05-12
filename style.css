@@ -61,3 +61,20 @@ body {
   transform: translateY(5px);
   box-shadow: inset 0px 10px 20px 2px rgba(0, 0, 0, 0.25);
 }
+
+.cp-text {
+  color: rgba(0, 0, 0, 0.7);
+  text-shadow: 0 1px rgba(255, 255, 255, 0.1);
+  margin-left: 3%;
+  padding: 3px;
+}
+
+footer {
+  margin-top: 55vh;
+  background-color: rgba(255, 255, 255, 0.7);
+  margin-left: 40%;
+  height: 5%;
+  width: 22%;
+  border-radius: 5px;
+
+}
